@@ -1,0 +1,7 @@
+device STM32F417VE
+si 1
+speed 4000
+loadbin bin/phi-gw-bl.bin, 0x08000000
+r
+g
+q

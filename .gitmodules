@@ -1,0 +1,9 @@
+[submodule "external/mbedtls"]
+	path = external/mbedtls
+	url = git@github.com:phi-innovations/mbedtls
+[submodule "external/mqtt-c"]
+	path = external/mqtt-c
+	url = git@github.com:phi-innovations/mqtt-c
+[submodule "external/libmodbus"]
+	path = external/libmodbus
+	url = git@github.com:phi-innovations/libmodbus

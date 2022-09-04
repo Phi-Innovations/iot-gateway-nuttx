@@ -1,0 +1,1 @@
+{ "flash_eraseall", SCHED_PRIORITY_DEFAULT, 6072, flash_eraseall_main },

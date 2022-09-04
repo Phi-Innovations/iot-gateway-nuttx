@@ -1,0 +1,5 @@
+device STM32F417VE
+si 1
+speed 4000
+erase
+q
