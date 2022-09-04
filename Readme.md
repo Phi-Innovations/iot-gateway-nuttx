@@ -1,6 +1,6 @@
 # IOT Gateway firmware
 
-This project implements an Iot gateway firmware to run on PHI Innovations's [IoT gateway](www.github.com/phi-innovation/iot-gateway-hw) hardware.
+This project implements an Iot gateway firmware to run on PHI Innovations's [IoT gateway](https://github.com/phi-innovations/iot-gateway-hw) hardware.
 
 This is a PHI Gateway firmware done in C++ running on Nuttx.
 
